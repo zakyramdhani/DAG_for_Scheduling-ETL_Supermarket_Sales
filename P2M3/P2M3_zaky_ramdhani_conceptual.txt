@@ -1,0 +1,14 @@
+Jawaban No.1
+Airflow adalah sebuah platform open-source yang digunakan untuk mengelola, menjadwalkan, dan memantau aliran pekerjaan (workflows) dalam pengolahan data dan otomatisasi tugas-tugas. Airflow memungkinkan pengguna untuk mendefinisikan dan mengeksekusi tugas-tugas dalam urutan tertentu, dengan kemampuan untuk menangani dependensi antara tugas-tugas tersebut. Platform ini sangat berguna dalam konteks ETL (Extract, Transform, Load) di mana data diambil dari berbagai sumber, diolah, dan dimuat ke tempat penyimpanan yang sesuai. Airflow juga mendukung tugas-tugas berulang, menjadwalkan pekerjaan pada waktu tertentu, serta pemantauan dan pelaporan.
+
+Jawaban No.2
+Great Expectations adalah alat open-source lainnya yang digunakan untuk memvalidasi data. Ini membantu dalam memeriksa apakah data memenuhi ekspektasi (expectations) yang telah ditentukan, seperti format, statistik, atau aturan bisnis tertentu. Great Expectations memungkinkan Anda untuk mendefinisikan ekspektasi tentang data Anda dalam format yang terstruktur, dan kemudian menjalankan pemeriksaan validasi secara berkala untuk memastikan data tetap konsisten.
+
+Jawaban No.3
+- Definisi : Batch processing, biasanya digunakan dalam pengolahan data besar yang dijalankan dalam batch (kelompok) daripada secara real-time.
+Batch processing melibatkan pemrosesan data dalam periode tertentu, seperti harian, mingguan, atau bulanan. Batch processing adalah cara yang efisien untuk mengelola dan menganalisis data dalam jumlah besar tanpa perlu merespons secara langsung terhadap perubahan data yang sedang terjadi. 
+Ini cocok untuk berbagai aplikasi seperti analisis data historis, laporan bisnis, dan pemrosesan data besar.
+- Contoh Kasus Penerapan : 1. Pengolahan Data Keuangan: Perusahaan keuangan mungkin menggunakan batch processing untuk menghitung dan melaporkan transaksi keuangan setiap hari.
+                            2. Pengolahan Data Log: Server dan aplikasi web sering menghasilkan log besar yang dianalisis secara batch untuk mendeteksi masalah atau tren.
+
+- Tools Apache Spark: Spark adalah platform pemrosesan data cepat yang mendukung batch processing dan pemrosesan data aliran (streaming) dalam waktu nyata.
